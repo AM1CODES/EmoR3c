@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/AM1CODES/Emotional-Recommender/blob/main/EMOR3C%20-%20Logo%20Transparent.png" alt="drawing" width="300"/>
+</p>
+
 # EmoR3c - Emotional-Recommender
 
 We all listen to music almost everyday. We listen to music while we are programming, during our workouts, while editing, etc. Music is an integral part of everyone's life but sometimes it can get really difficult to choose the right music that you really enjoy. We browse through these different apps searching for the right music which might take up some of our time. So what if we could get music recommendations based on our emotions? Let me introduce EmoR3c, a GUI based recommender that recommends songs to the user based on their emotions.
