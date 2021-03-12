@@ -31,5 +31,5 @@ for i in range(len(track_ids)):
   track = get_track_data(track_ids[i])
   tracks.append(track)
 
-with open('disgust_songs.json','w') as outfile: #writing our output to a json file
+with open('spotify_data.json','w') as outfile: #writing our output to a json file
   json.dump(tracks,outfile,indent=4)
