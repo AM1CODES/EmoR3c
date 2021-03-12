@@ -4,7 +4,7 @@ import time
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
-client_creds = SpotifyClientCredentials("26f8f90761de48bd96e3e43043e470d2","883865a26dfe44b29b264696f11a5241") #my spotify credentials
+client_creds = SpotifyClientCredentials("client_id","client_secret_key") #my spotify credentials
 sp = spotipy.Spotify(client_credentials_manager=client_creds) #spotify object
 
 def get_track_id(playlist_id): #method to get the track id from playlist id
