@@ -54,7 +54,7 @@ Contributing guidelines are as follows:
 
 1. Fork this repository
 2. Clone forked respository onto your system using the command - `git clone [url of forked repository]`
-3. Create a new branch using the command - `git branch [branch-name]'
+3. Create a new branch using the command - `git branch [branch-name]`
 4. Move to newly created branch using the command - `git checkout [branch-name]`
 5. Make your proposed changes.
 6. Add your changes using the command - `git add -A`
