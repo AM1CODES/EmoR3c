@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AM1CODES/Emotional-Recommender/blob/main/EMOR3C%20-%20Logo%20Transparent.png" alt="drawing" width="300"/>
+<img src="https://github.com/AM1CODES/EmoR3c/blob/main/EMOR3C%20-%20Logo.png" alt="drawing" width="300"/>
 </p>
 
 # EmoR3c - Music for all your Moods🎵
